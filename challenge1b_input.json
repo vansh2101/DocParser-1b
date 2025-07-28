@@ -1,0 +1,19 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_003",
+        "test_case_name": "create_manageable_forms",
+        "description": "Creating manageable forms"
+    },
+    "documents": [
+        {
+            "filename": "OS-LabFile-HemangJAin_23CS174.pdf",
+            "title": "Learn Acrobat - Create and Convert_1"
+        }
+    ],
+    "persona": {
+        "role": "HR professional"
+    },
+    "job_to_be_done": {
+        "task": "Create and manage fillable forms for onboarding and compliance."
+    }
+}
