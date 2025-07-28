@@ -67,22 +67,6 @@ docParserv2/
 
 ---
 
-## 🚀 How It Works
-
-### Pipeline Flow
-
-```mermaid
-graph TD
-    A[Input JSON] --> B[Initialize Ollama + YOLO + OCR]
-    B --> C[PDF → Images → OCR Text]
-    C --> D[Extract Headings + Structure]
-    D --> E[Summarize Each Document (Ollama)]
-    E --> F[Rank 5–7 Relevant Topics (Ollama)]
-    F --> G[Semantic + AI Matching of Sections]
-    G --> H[Generate Structured Output]
-```
-
----
 
 ## 🧠 Key Features
 
